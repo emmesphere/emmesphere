@@ -37,17 +37,17 @@ I'm always looking to enhance my skills and keep up with the latest technologies
 ### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antonioeagomes&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=emmesphere&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=antonioeagomes&theme=dark" alt="GitHub Streaks">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emmesphere&theme=dark" alt="GitHub Streaks">
 </p>
 
 ---
 
 ### 📫 **Contact Me**  
 📩 **Email:** aeag.backup@gmail.com  
-💼 **LinkedIn:** https://www.linkedin.com/in/emmanuelgomes/  
+💼 **LinkedIn:** [in/emmanuelspace/](https://www.linkedin.com/in/emmespace/)  
 
 ---
 
