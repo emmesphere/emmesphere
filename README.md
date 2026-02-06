@@ -47,7 +47,7 @@ I'm always looking to enhance my skills and keep up with the latest technologies
 
 ### 📫 **Contact Me**  
 📩 **Email:** aeag.backup@gmail.com  
-💼 **LinkedIn:** [in/emmanuelspace/](https://www.linkedin.com/in/emmespace/)  
+💼 **LinkedIn:** [in/emmespace/](https://www.linkedin.com/in/emmespace/)  
 
 ---
 
