@@ -46,7 +46,9 @@ I'm always looking to enhance my skills and keep up with the latest technologies
 ---
 
 ### 📫 **Contact Me**  
-📩 **Email:** contact@emmes.io 
+
+📩 **Email:** contact@emmes.io
+
 💼 **LinkedIn:** [in/emmespace/](https://www.linkedin.com/in/emmespace/)  
 
 ---
